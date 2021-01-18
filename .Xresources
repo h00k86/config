@@ -1,0 +1,39 @@
+! special
+*.foreground:   #dde3ea
+*.background:   #000000
+*.cursorColor:  #dde3ea
+
+! black
+*.color0:       #000000
+*.color8:       #3fb7aa
+
+! red
+*.color1:       #0e1114
+*.color9:       #4bf1e0
+
+! green
+*.color2:       #1e2429
+*.color10:      #8fe068
+
+! yellow
+*.color3:       #353d45
+*.color11:      #c8a04f
+
+! blue
+*.color4:       #515d69
+*.color12:      #7ceddf
+
+! magenta
+*.color5:       #748494
+*.color13:      #95df73
+
+! cyan
+*.color6:       #9eb1c5
+*.color14:      #7bcd4d
+
+! white
+*.color7:       #dde3ea
+*.color15:      #81bcec
+
+xterm*faceName:	DejaVu Mono
+xterm*faceSize:	8
