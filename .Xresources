@@ -1,3 +1,4 @@
+! this is Xterm config
 ! special
 *.foreground:   #dde3ea
 *.background:   #000000
